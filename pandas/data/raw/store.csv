@@ -1,0 +1,11 @@
+order_id,order_date,region,product,category,sales,quantity,profit
+1001,2023-01-01,North,Laptop,Electronics,55000,2,5000
+1002,2023-01-02,South,Mobile,Electronics,20000,3,2500
+1003,2023-01-03,East,Chair,Furniture,5000,5,800
+1004,2023-01-04,West,Table,Furniture,12000,2,1500
+1005,2023-01-05,North,Headphones,Electronics,3000,4,400
+1006,2023-01-06,South,Shoes,Fashion,4000,2,600
+1007,2023-01-07,East,T-shirt,Fashion,1500,6,300
+1008,2023-01-08,West,Watch,Accessories,7000,2,900
+1009,2023-01-09,North,Bag,Accessories,2500,3,350
+1010,2023-01-10,South,Laptop,Electronics,60000,1,7000
