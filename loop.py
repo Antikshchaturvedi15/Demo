@@ -250,22 +250,22 @@
 # # total prime count batayega
 # # unka sum bhi batayega
 
-num =  int(input("enter any number :"))                           
-count = 0 
-total = 0
-for n in range (2,num+1):
-    for i in range(2,n):
-        if n % i == 0:
-        #  print("...")
-         break
-    else:
-        print(n, "is prime")
-        count += 1
-        total += n
+# num =  int(input("enter any number :"))                           
+# count = 0 
+# total = 0
+# for n in range (2,num+1):
+#     for i in range(2,n):
+#         if n % i == 0:
+#         #  print("...")
+#          break
+#     else:
+#         print(n, "is prime")
+#         count += 1
+#         total += n
 
 
-print("sum:",total)
-print("total primes :", count)
+# print("sum:",total)
+# print("total primes :", count)
 
 
     
